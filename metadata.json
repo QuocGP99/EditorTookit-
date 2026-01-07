@@ -1,0 +1,5 @@
+{
+  "name": "Editor Toolkit",
+  "description": "A professional calculation suite for video editors, featuring bitrate estimation, timecode arithmetic, and aspect ratio conversion.",
+  "requestFramePermissions": []
+}
